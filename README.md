@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze the impacts of COVID-19 using Python. The analysis is based on a Jupyter Notebook file (`covid_analysis.ipynb`) that contains all the necessary code for data loading, preprocessing, exploratory data analysis, statistical analysis, and data visualization.
+This project aims to analyze the impacts of COVID-19 using Python. The analysis is based on a Jupyter Notebook file (`Covid19 sentiment analysis.ipynb`) that contains all the necessary code for data loading, preprocessing, exploratory data analysis, statistical analysis, and data visualization.
 
 ## Table of Contents
 
