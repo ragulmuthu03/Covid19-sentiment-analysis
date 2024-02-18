@@ -12,7 +12,6 @@ This project aims to analyze the impacts of COVID-19 using Python. The analysis 
 - [Analysis](#analysis)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -61,7 +60,3 @@ The results of the analysis are documented within the notebook. This includes vi
 ## Contributing
 
 Contributions are welcome! If you have suggestions, bug reports, or want to contribute to the project, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
